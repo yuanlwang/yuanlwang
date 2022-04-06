@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuanlwang
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Database
+- 🌱 I’m currently learning Database with EDGE UP 2.0 stream
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
